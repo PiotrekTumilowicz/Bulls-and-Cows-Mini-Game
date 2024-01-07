@@ -1,0 +1,15 @@
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/bin/Debug/net7.0/Bulls and Cows
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/bin/Debug/net7.0/Bulls and Cows.deps.json
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/bin/Debug/net7.0/Bulls and Cows.runtimeconfig.json
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/bin/Debug/net7.0/Bulls and Cows.dll
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/bin/Debug/net7.0/Bulls and Cows.pdb
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.csproj.AssemblyReference.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.AssemblyInfoInputs.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.AssemblyInfo.cs
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.csproj.CoreCompileInputs.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.dll
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/refint/Bulls and Cows.dll
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.pdb
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/Bulls and Cows.genruntimeconfig.cache
+/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/Debug/net7.0/ref/Bulls and Cows.dll

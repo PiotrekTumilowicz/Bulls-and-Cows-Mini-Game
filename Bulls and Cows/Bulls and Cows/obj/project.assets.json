@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/piotrtumilowicz/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/Bulls and Cows.csproj",
+      "projectName": "Bulls and Cows",
+      "projectPath": "/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/Bulls and Cows.csproj",
+      "packagesPath": "/Users/piotrtumilowicz/.nuget/packages/",
+      "outputPath": "/Users/piotrtumilowicz/Library/Mobile Documents/com~apple~CloudDocs/BAM/16. C#/CSharp Test/Bulls and Cows/Bulls and Cows/Bulls and Cows/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/piotrtumilowicz/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
